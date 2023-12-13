@@ -2,6 +2,7 @@
 
 Este projeto contém o protótipo Figma desenvolvido para a challenge da FIAP em colaboração com a Idwall, focado em soluções internacionais de segurança.
 
+![Dashboard](https://cdn.discordapp.com/attachments/1082896001339240568/1184465653596442714/Group_84.png?ex=658c129a&is=65799d9a&hm=cae71cf10423b5a779d32f2f037d7197e060477f85b6fe3e42a18dea4cad6df3&)
 ## Links
 
 - **Visualização do Protótipo:**
